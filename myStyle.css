@@ -1,5 +1,11 @@
 
 /** My own style to perfect the desing **/
+/**
+*{
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}**/
 
 body {
      font-family: 'Lato', sans-serif;
@@ -7,7 +13,9 @@ body {
      font-weight:300;
 }
 
-
+p{
+    text-indent: 5em;
+}
 .text-muted {
     color:#B5B4B4;
 
@@ -36,4 +44,14 @@ body {
 
 .footerPadding{
     padding-bottom: 45px;
+}
+
+.imgwithtext{
+    float:left;
+    margin: 0 20px 20px 0;
+}
+
+.frame{
+    padding-left:5%;
+    padding-right:5%;
 }
