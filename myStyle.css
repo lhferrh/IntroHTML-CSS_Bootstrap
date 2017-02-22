@@ -1,0 +1,39 @@
+
+/** My own style to perfect the desing **/
+
+body {
+     font-family: 'Lato', sans-serif;
+     color:#9D9D9D;
+     font-weight:300;
+}
+
+
+.text-muted {
+    color:#B5B4B4;
+
+}
+.text-thin{
+    font-weight:100;
+}
+
+.text-supertitle{
+    font-size: 65px;
+}
+
+.title-logo{
+    margin-top:15px;
+}
+.box-bottomline{
+    border-bottom-style: solid;
+    border-bottom-width:5px;
+    border-bottom-color:#9D9D9D;
+
+}
+.extraPadding{
+    padding-bottom: 15px;
+    padding-top: 45px;
+}
+
+.footerPadding{
+    padding-bottom: 45px;
+}
